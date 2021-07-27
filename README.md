@@ -1,2 +1,2 @@
 # epoch
-travel guide and visitlist application
+Travel-guide esque and visitlist creation application
